@@ -35,33 +35,26 @@ Questo progetto analizza gli studi clinici globali condotti da Johnson & Johnson
 
 ##  Key Visualizations / Visualizzazioni Principali
 
-###  Python Visuals
+#### 📌 Average Duration of Clinical Trials
+![Average Duration](clinical_trial_analysis/plots/average_duration_of_clinical_trials.png)
 
-- `average_duration_of_clinical_trials.png`  
-- `enrollment_percentage_by_sponsor.png`  
-- `enrollment_percentage_by_year.png`  
-- `percentage_of_studies_by_country.png`  
-- `percentage_of_study_by_funder.png`  
-- `percentage_of_study_by_status.png`  
-- `study_status_by_country.png`
+#### 📌 Enrollment Percentage by Sponsor
+![Enrollment by Sponsor](clinical_trial_analysis/plots/enrollment_percentage_by_sponsor.png)
 
-> Location: `plots/python/`
+#### 📌 Enrollment Percentage by Year
+![Enrollment by Year](clinical_trial_analysis/plots/enrollment_percentage_by_year.png)
 
-###  Power BI Visuals
+#### 📌 Percentage of Studies by Country
+![Studies by Country](clinical_trial_analysis/plots/percentage_of_studies_by_country.png)
 
-- General KPIs and dashboards  
-- Sponsor-based enrollment breakdown  
-- Status by country  
-- Annual trend graphs  
-- Funder-based study distributions  
-/
-- KPI generali e dashboard
-- Ripartizione delle iscrizioni per sponsor
-- Stato per paese
-- Grafici delle tendenze annuali
-- Distribuzione degli studi per finanziatore
+#### 📌 Percentage of Study by Funder
+![Studies by Funder](clinical_trial_analysis/plots/percentage_of_study_by_funder.png)
 
-> Location: `plots/powerbi/`
+#### 📌 Percentage of Study by Status
+![Studies by Status](clinical_trial_analysis/plots/percentage_of_study_by_status.png)
+
+#### 📌 Study Status by Country
+![Status by Country](clinical_trial_analysis/plots/study_status_by_country.png)
 
 ---
 
