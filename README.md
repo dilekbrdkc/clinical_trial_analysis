@@ -73,7 +73,7 @@ Questo progetto analizza gli studi clinici globali condotti da Johnson & Johnson
 *Average duration of clinical trials*  
 *Durata media degli studi clinici*
 
-![Status by Country](clinical_trial_analysis/plots/python/study_status_by_country.png)  
+![Status by Country](clinical_trial_analysis/plots/study_status_by_country.png)  
 *Study status by country*  
 *Stato degli studi per paese*
 
