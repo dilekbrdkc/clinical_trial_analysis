@@ -69,11 +69,11 @@ Questo progetto analizza gli studi clinici globali condotti da Johnson & Johnson
 
 ###  From Python
 
-![Average Duration](plots/python/average_duration_of_clinical_trials.png)  
+![Average Duration](clinical_trial_analysis/plots/average_duration_of_clinical_trials.png)  
 *Average duration of clinical trials*  
 *Durata media degli studi clinici*
 
-![Status by Country](plots/python/study_status_by_country.png)  
+![Status by Country](clinical_trial_analysis/plots/python/study_status_by_country.png)  
 *Study status by country*  
 *Stato degli studi per paese*
 
